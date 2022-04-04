@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @Tiefflieger68
-- 👀 I’m interested in DIY RC Projects
 
 
 <!---
